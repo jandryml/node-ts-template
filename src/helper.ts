@@ -1,1 +1,1 @@
-export const message = "Hello from Node with TS!";
+export const message = "Hello from Node with TS!\n";
